@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673138005554",
+    "project_id": "controle-estoque-5b990",
+    "storage_bucket": "controle-estoque-5b990.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673138005554:android:c767e040640cccbe6e8e2b",
+        "android_client_info": {
+          "package_name": "com.inventorycontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMpKJPYbnSG4dT4Oo5Pjcao5ewRiek-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
